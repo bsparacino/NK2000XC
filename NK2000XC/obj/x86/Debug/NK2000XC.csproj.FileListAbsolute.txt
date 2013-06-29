@@ -1,0 +1,15 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\NK2000XC\bin\Debug\NK2000XC.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\NK2000XC\bin\Debug\NK2000XC.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\NK2000XC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\NK2000XC\obj\x86\Debug\NK2000XC.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\NK2000XC\obj\x86\Debug\NK2000XC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NK2000XC\NK2000XC\obj\x86\Debug\NK2000XC.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NK2000XC\NK2000XC\obj\x86\Debug\NK2000XC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NK2000XC\NK2000XC\bin\Debug\NK2000XC.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NK2000XC\NK2000XC\bin\Debug\NK2000XC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\NK2000XC\NK2000XC\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NK2000XC\NK2000XC\obj\x86\Debug\NK2000XC.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NK2000XC\NK2000XC\obj\x86\Debug\NK2000XC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NK2000XC\NK2000XC\bin\Debug\NK2000XC.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NK2000XC\NK2000XC\bin\Debug\NK2000XC.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\NK2000XC\NK2000XC\obj\x86\Debug\NK2000XC.csprojResolveAssemblyReference.cache
